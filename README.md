@@ -1,13 +1,29 @@
-# Repository for Robot System Engineering 2022
+# **Repository for Robot System Engineering 2022**
 
-## plus command
-![test](https://github.com/haru0130/robosys2022/actions/workflows/test.yml/badge.svg)
-## Required Software
+## Plus command
+***
+* ![test](https://github.com/haru0130/robosys2022/actions/workflows/test.yml/badge.svg)
+
+## How to use
+***
+*
+
+
+## Required software
+***
+
+
  * Python 
    * Verified on Python 3.7 ~3.10
-## Test Inveironment
+
+## Test inveironment
+***
+
  * Ubuntu 22.04 LTS
+
 ## License
+***
+
 * このソフトウェアパッケージは、三条項BSDライセンスの下、再配布および使用が許可されます.
 * このパッケージは，ロボットシステム学2022由来のコード（© 2022 Ryuichi Ueda）を利用しています．
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
