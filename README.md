@@ -21,7 +21,7 @@
 
 
  * Python 
-   * Verified on Python 3.7 ~3.10
+   * Verified on Python 3.7 ~ 3.10
 
 ## Test inveironment
 
