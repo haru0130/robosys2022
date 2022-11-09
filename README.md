@@ -2,11 +2,18 @@
 
 ## Plus command
 
-* ![test](https://github.com/haru0130/robosys2022/actions/workflows/test.yml/badge.svg)
+ ![test](https://github.com/haru0130/robosys2022/actions/workflows/test.yml/badge.svg)
 
-## How to use
+* **Function**
 
-*
+  * This command is used add number read from standard input.
+* **Install**
+* **Usage**
+* **Run Script**
+* **Output**
+
+
+
 
 
 ## Required software
