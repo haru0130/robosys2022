@@ -1,28 +1,28 @@
 # **Repository for Robot System Engineering 2022**
 
 ## Plus command
-***
+
 * ![test](https://github.com/haru0130/robosys2022/actions/workflows/test.yml/badge.svg)
 
 ## How to use
-***
+
 *
 
 
 ## Required software
-***
+
 
 
  * Python 
    * Verified on Python 3.7 ~3.10
 
 ## Test inveironment
-***
+
 
  * Ubuntu 22.04 LTS
 
 ## License
-***
+
 
 * このソフトウェアパッケージは、三条項BSDライセンスの下、再配布および使用が許可されます.
 * このパッケージは，ロボットシステム学2022由来のコード（© 2022 Ryuichi Ueda）を利用しています．
