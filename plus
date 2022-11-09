@@ -2,12 +2,17 @@
 #SPDX-FileCopyrightText: 2022 Haruki Matsukawa 
 #SPDX-License-Identifier: BSD-3-Clause
 import sys
-
+ 
+ 
+def tonum(s):   #def 関数の名前(引数)で関数を定義
+  try:
+      return int(s)
+  except:
+      return float(s)
+ 
+ 
 ans = 0
 for line in sys.stdin:
-    try:
-        ans += int(line)
-    except:
-        ans += float(line)
+      ans += tonum(line)
 
 print(ans)
