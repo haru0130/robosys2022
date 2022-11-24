@@ -1,8 +1,8 @@
 # **Repository for Robot System Engineering 2022**
+ ![test](https://github.com/haru0130/robosys2022/actions/workflows/test.yml/badge.svg)
 
 ## Plus command
 
- ![test](https://github.com/haru0130/robosys2022/actions/workflows/test.yml/badge.svg)
 
 * **Function**
 
