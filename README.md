@@ -57,9 +57,9 @@
 ## License
 
 
-* このソフトウェアパッケージは、三条項BSDライセンスの下、再配布および使用が許可されます.
-* このパッケージは，ロボットシステム学2022由来のコード（© 2022 Ryuichi Ueda）を利用しています．
-* このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
+* This software package is licensed for redistribution and use under the terms of the 3-Clause BSD License.
+* This package uses code derived from Robot System class 2022 (© 2022 Ryuichi Ueda).
+* The code in this package is based on the following slide（CC-BY-SA 4.0 by Ryuichi Ueda）, which is my own work with his permission．
     * [ryuichiueda/my_slides robosys_2022][def]
 * © 2022 Haruki Matsukawa
 
