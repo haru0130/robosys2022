@@ -3,7 +3,13 @@
 #SPDX-License-Identifier: BSD-3-Clause
 import sys
 
-ans = 0
+def tonum(s):
+    try:
+        return int(s)
+    except:
+        return float(s)
+        
+ans = 0  
 def product(a,b):
     ans = a * b
     return ans
