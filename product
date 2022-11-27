@@ -1,0 +1,26 @@
+#!/usr/bin/python3 -x
+#SPDX-FileCopyrightText: 2022 Haruki Matsukawa 
+#SPDX-License-Identifier: BSD-3-Clause
+import sys
+
+def tonum(s):
+    try:
+        return int(s)
+    except:
+        return float(s)
+        
+#ans = 0  
+#def product(a,b):
+    #ans = a * b
+    #return ans
+
+#num = input ().split()
+
+ans = 1
+for line in sys.stdin:      #標準入力から読んで出力
+    line = line.rstrip()    #文字列の右側のスペースを削除
+    ans *= tonum(line)
+    #ans = product(ans,tonum(line))
+
+
+print(ans)
