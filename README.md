@@ -1,7 +1,8 @@
 # **Repository for Robot System Engineering 2022**
  ![test](https://github.com/haru0130/robosys2022/actions/workflows/test.yml/badge.svg)
 
-## Plus command
+## **COMMANDS**
+### **Plus** 
 
 
 * **Function**
@@ -19,6 +20,23 @@
    ``` 
     666
     ```
+### **Product**
+* **Function**
+  * This command is used to calculate the product of numbers read from standard input.
+* **Install**
+  ``` 
+    git clone -b main  https://github.com/haru0130/robosys2022.git
+    ```
+*  **Run Script**
+     ``` 
+      seq 5 | ./product
+      ```
+* **Output**
+    ``` 
+      120
+    ```
+
+
 
 
 
