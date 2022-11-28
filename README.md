@@ -6,7 +6,7 @@
 ### **Install**
   ``` 
   $ git clone -b main https://github.com/haru0130/robosys2022.git
- 
+  $ cd robosys2022
   ```
 ### **Plus** 
 
