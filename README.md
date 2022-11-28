@@ -1,13 +1,15 @@
 # **Repository for Robot System Engineering 2022**
  ![test](https://github.com/haru0130/robosys2022/actions/workflows/test.yml/badge.svg)
 
-## **COMMANDS**
 
-### **Install**
+## **Install**
   ``` 
   $ git clone -b main https://github.com/haru0130/robosys2022.git
   $ cd robosys2022
   ```
+
+## **COMMANDS**
+
 ### **Plus** 
 
 
