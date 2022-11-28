@@ -61,7 +61,7 @@
 
 
 * This software package is licensed for redistribution and use under the terms of the 3-Clause BSD License.
-* This package uses code derived from Robot System class 2022 (© 2022 Ryuichi Ueda).
+* This package uses code originate from Robot System class 2022 (© 2022 Ryuichi Ueda).
 * The code in this package is based on the following slide（CC-BY-SA 4.0 by Ryuichi Ueda）, which is my own work with his permission．
     * [ryuichiueda/my_slides robosys_2022][def]
 * © 2022 Haruki Matsukawa
