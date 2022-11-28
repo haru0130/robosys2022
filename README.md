@@ -2,6 +2,12 @@
  ![test](https://github.com/haru0130/robosys2022/actions/workflows/test.yml/badge.svg)
 
 ## **COMMANDS**
+
+### **Install**
+  ``` 
+  $ git clone -b main https://github.com/haru0130/robosys2022.git
+ 
+  ```
 ### **Plus** 
 
 
@@ -9,13 +15,10 @@
   
   * This command is used add number read from standard input.
 
-* **Install**
-  ``` 
-    git clone -b main https://github.com/haru0130/robosys2022.git
-    ```
+
 *  **Run Script**
      ``` 
-      seq 36 | ./plus
+     $ seq 36 | ./plus
       ```
 * **Output**
    ``` 
@@ -26,13 +29,10 @@
 
   * This command is used to calculate the product of numbers read from standard input.
 
-* **Install**
-  ``` 
-    git clone -b main  https://github.com/haru0130/robosys2022.git
-    ```
+
 *  **Run Script**
      ``` 
-      seq 5 | ./product
+     $ seq 5 | ./product
       ```
 * **Output**
     ``` 
@@ -50,6 +50,7 @@
 
 
  * Python 
+   
    * Verified on Python 3.7 ~ 3.10
 
 ## Test inveironment
