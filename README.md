@@ -8,7 +8,7 @@
   $ cd robosys2022
   ```
 
-## **COMMANDS**
+## **Comannds**
 
 ### **Plus** 
 
